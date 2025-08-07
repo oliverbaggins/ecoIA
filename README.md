@@ -2,6 +2,10 @@
 
 EcoIA é um site informativo desenvolvido para uma campanha de conscientização sobre os benefícios da Inteligência Artificial na ecologia e sustentabilidade. O projeto visa apresentar, de forma acessível, como a IA pode ser usada para promover um futuro mais verde.
 
+## Acesso Online
+
+Acesse o site da campanha diretamente aqui: [EcoIA Online](https://ecoia.onrender.com/)
+
 ## Propósito
 
 A proposta do EcoIA é disseminar informações sobre:
@@ -23,7 +27,7 @@ A proposta do EcoIA é disseminar informações sobre:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ecoIA.git
+   git clone https://github.com/oliverbaggins/ecoIA.git
    cd ecoIA
    ```
 
@@ -75,5 +79,5 @@ Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias
 
 ## Autor
 
-Feito por [Gustavo Oliveira](https://github.com/oliverbaggins)  
+Feito por [Gustavo Oliveira](https://github.com/oliverbaggins)
 Campanha educativa sobre IA e sustentabilidade
