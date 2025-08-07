@@ -79,5 +79,5 @@ Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias
 
 ## Autor
 
-Feito por [Gustavo Oliveira](https://github.com/oliverbaggins)
+Feito por [Gustavo Oliveira](https://github.com/oliverbaggins)  
 Campanha educativa sobre IA e sustentabilidade
