@@ -12,7 +12,7 @@ A proposta do EcoIA é disseminar informações sobre:
 - Redução de emissão de poluentes com IA.
 - Iniciativas e projetos reais que aliam tecnologia e meio ambiente.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
 - HTML5 e CSS3
@@ -71,7 +71,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
+Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
 
 ## Autor
 
