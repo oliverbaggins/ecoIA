@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# EcoIA – Conscientização Ambiental Impulsionada pela IA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+EcoIA é um site informativo desenvolvido para uma campanha de conscientização sobre os benefícios da Inteligência Artificial na ecologia e sustentabilidade. O projeto visa apresentar, de forma acessível, como a IA pode ser usada para promover um futuro mais verde.
 
-## Available Scripts
+## Propósito
 
-In the project directory, you can run:
+A proposta do EcoIA é disseminar informações sobre:
 
-### `npm start`
+- Como a IA pode otimizar o uso de recursos naturais.
+- Aplicações da IA na agricultura sustentável.
+- Monitoramento ambiental inteligente.
+- Redução de emissão de poluentes com IA.
+- Iniciativas e projetos reais que aliam tecnologia e meio ambiente.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Tecnologias Utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [React](https://reactjs.org/)
+- HTML5 e CSS3
+- JavaScript (ES6+)
+- Create React App
 
-### `npm test`
+## Como Executar o Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/ecoIA.git
+   cd ecoIA
+   ```
 
-### `npm run build`
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm start
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Acesse no navegador:
+   ```
+   http://localhost:3000
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Scripts Disponíveis
 
-### `npm run eject`
+| Comando           | Descrição                                  |
+|------------------|----------------------------------------------|
+| `npm start`      | Executa a aplicação em modo de desenvolvimento |
+| `npm test`       | Roda os testes com Jest                     |
+| `npm run build`  | Gera uma versão otimizada para produção     |
+| `npm run eject`  | Remove a abstração do Create React App (irreversível) |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Estrutura do Projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+ecoIA/
+├── public/             # Arquivos públicos (HTML, favicon, manifest)
+├── src/                # Código-fonte React (componentes, estilos, etc)
+│   ├── App.js          # Componente principal
+│   ├── index.js        # Ponto de entrada da aplicação
+│   └── ...             # Outros arquivos e estilos
+├── package.json        # Dependências e scripts
+├── README.md           # Este arquivo
+└── ...                 # Outros arquivos de configuração
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Licença
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## Learn More
+## Contribuição
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autor
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito por [Gustavo Oliveira](https://github.com/oliverbaggins)  
+Campanha educativa sobre IA e sustentabilidade
