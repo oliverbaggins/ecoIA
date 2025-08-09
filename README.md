@@ -4,7 +4,7 @@ EcoIA é um site informativo desenvolvido para uma campanha de conscientização
 
 ## Acesso Online
 
-Acesse o site da campanha diretamente aqui: [EcoIA Online](https://ecoia.onrender.com/)
+Acesse o site da campanha diretamente aqui: [ecoia.onrender.com](https://ecoia.onrender.com/)
 
 ## Propósito
 
