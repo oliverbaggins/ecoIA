@@ -18,7 +18,7 @@ A proposta do EcoIA é disseminar informações sobre:
 
 ## Tecnologias Utilizadas
 
-- [React](https://reactjs.org/)
+- React
 - HTML5 e CSS3
 - JavaScript (ES6+)
 - Create React App
@@ -69,15 +69,6 @@ ecoIA/
 └── ...                 # Outros arquivos de configuração
 ```
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Contribuição
 
 Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
-
-## Autor
-
-Feito por [Gustavo Oliveira](https://github.com/oliverbaggins)  
-Campanha educativa sobre IA e sustentabilidade
